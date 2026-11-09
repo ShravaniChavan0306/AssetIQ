@@ -1,0 +1,7 @@
+
+Flask
+python-dotenv
+google-genai
+mysql-connector-python
+sqlglot
+neo4j

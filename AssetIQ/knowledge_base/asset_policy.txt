@@ -1,0 +1,59 @@
+# ASSET MANAGEMENT POLICY
+
+## 1. Asset Allocation
+Every company IT asset should be assigned to an employee using a recorded allocation. The employee ID and asset ID must be recorded.
+
+## 2. Asset Return
+When an employee returns an asset, the return date must be recorded. An allocation with no return date is considered active.
+
+## 3. Asset Maintenance
+Assets requiring repair should be recorded in the maintenance register. Open and In Progress maintenance records are considered active.
+
+## 4. Asset Availability
+An asset marked Available can be considered for a new allocation, subject to company approval.
+
+## 5. Warranty
+The warranty expiry date should be checked before arranging paid repairs. Warranty information must be verified against the asset record.
+
+## 6. Asset Security
+Employees should use company assets responsibly and report loss, damage or malfunction to the IT department.
+
+## 7. Replacement
+An asset replacement should be considered when repair is not practical, the asset is obsolete, or the maintenance team recommends replacement.
+
+## 8. Asset Records
+Asset IDs and employee IDs should be used to identify records accurately.
+
+## 9. Allocation Approval
+New asset allocations should be approved by the authorized IT department or asset management administrator before the asset is issued.
+
+## 10. Overdue Asset Returns
+Employees should return company assets when requested or when their employment or assigned responsibilities end. Delayed returns should be reported to the IT department.
+
+## 11. Asset Transfer
+An asset transferred from one employee to another must have its existing allocation updated and a new allocation recorded with the correct employee ID and asset ID.
+
+## 12. Preventive Maintenance
+IT equipment should be inspected periodically to identify potential hardware problems before they cause major failures.
+
+## 13. Maintenance Priority
+Critical issues affecting essential business operations should receive priority from the IT support team.
+
+## 14. Asset Inspection
+Assets should be inspected when issued, returned, or transferred to identify physical damage and verify their condition.
+
+## 15. Asset Disposal
+Damaged, obsolete, or unusable assets should be reviewed by the authorized department before disposal. Asset records should be updated after disposal approval.
+
+## 16. Inventory Verification
+The organization should periodically compare physical IT assets with the asset register to identify missing, misplaced, or incorrectly recorded assets.
+
+## 17. Data Protection
+Employees must protect company information stored on assigned devices. Sensitive company data should not be shared with unauthorized individuals.
+
+## 18. Software Usage
+Software installed on company assets should be used only for authorized purposes and must comply with applicable company licensing requirements.
+
+---
+
+**Note:** These are sample policies prepared for the AssetIQ academic project. Actual company policies may differ.
